@@ -1,0 +1,2 @@
+module SpringTraining2 {
+}
